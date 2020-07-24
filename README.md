@@ -18,9 +18,11 @@
 
 ![本地地址](./resource/../resource/img_local.png)
 
+![本地地址](./resource/img_local.png){:height="100px" width="100px"}
+
 ## 表格
 
-|-|  li|  li| li| li| li| li| li| li| li| li| li|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ul|-|    -|  -|  -|  -|  -|  -|  -|  -|  -|  -|
-| ul|-|    -|  -|  -|  -|  -|  -|  -|  -|  -|  -|
+|Table ![本地地址](https://gitee.com/dede_hu/coc-guide-resource/raw/master/resource/img_local.png)|  li|  li| li| li| li| li| li| li| li|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ul|-|    -|  -|  -|  -|  -|  -|  -|  -|
+| ul|-|    -|  -|  -|  -|  -|  -|  -|  -|
