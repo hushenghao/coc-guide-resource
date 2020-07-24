@@ -1,4 +1,4 @@
-# Clash of Clan Guide
+# Clash of Clans Guide
 
 这是一个部落冲突的指导资源仓库
 
