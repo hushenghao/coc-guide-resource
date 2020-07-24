@@ -4,7 +4,7 @@
 
 ## 链接
 
-[项目地址](https://gitee.com/dede_hu/coc-guide-resource)
+[项目地址][HOME]
 
 [Baidu](http://www.baidu.com)
 
@@ -15,6 +15,7 @@
 ![远程地址](https://gitee.com/dede_hu/coc-guide-resource/raw/master/resource/img_local.png)
 
 ![本地地址](./resource/img_local.png)
+![本地地址]([HOME]/resource/img_local.png)
 
 ## 表格
 
