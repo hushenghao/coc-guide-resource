@@ -4,7 +4,7 @@
 
 ## 链接
 
-[项目地址](https://github.com/hushenghao/coc-guide-resource)
+[项目地址](https://gitee.com/dede_hu/coc-guide-resource)
 
 [Baidu](http://www.baidu.com)
 
@@ -12,7 +12,7 @@
 
 ## 图片
 
-![远程地址](https://avatars2.githubusercontent.com/u/28776451)
+![远程地址](https://gitee.com/dede_hu/coc-guide-resource/raw/master/resource/img_local.png)
 
 ![本地地址](./resource/img_local.png)
 
