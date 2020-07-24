@@ -18,7 +18,7 @@
 
 ![本地地址](./resource/../resource/img_local.png)
 
-![本地地址](./resource/img_local.png){:height="100px" width="100px"}
+![本地地址](./resource/img_local.png)
 
 ## 表格
 
