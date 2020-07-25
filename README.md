@@ -8,7 +8,7 @@
 
 [Baidu](http://www.baidu.com)
 
-[新页面](./Page1.md)
+[Wiki](./wiki/Index.md)
 
 ## 图片
 
@@ -17,8 +17,6 @@
 ![本地地址](./resource/img_local.png)
 
 ![本地地址](./resource/../resource/img_local.png)
-
-![本地地址](./resource/img_local.png)
 
 ## 表格
 
