@@ -16,7 +16,7 @@
 
 **攻城机器**
 
-|[![攻城车](/wiki/Troops/HomeVillage/Wallwrecker/icon.png "攻城车")](/wiki/Troops/HomeVillage/Wallwrecker/wiki.md)|[![攻城飞艇](/wiki/Troops/HomeVillage/BattleBlimp/icon.png "攻城飞艇")](/wiki/Troops/HomeVillage/BattleBlimp/wiki.md)|[![攻城气球](/wiki/Troops/HomeVillage/StoneSlammer/icon.png "攻城气球")](/wiki/Troops/HomeVillage/StoneSlammer/wiki.md)|[![攻城训练营](/wiki/Troops/HomeVillage/SiegeBarracks/icon.png "攻城训练营")](/wiki/Troops/HomeVillage/SiegeBarracks/wiki.md)|
+|[![攻城车](/wiki/Troops/HomeVillage/WallWrecker/icon.png "攻城车")](/wiki/Troops/HomeVillage/WallWrecker/wiki.md)|[![攻城飞艇](/wiki/Troops/HomeVillage/BattleBlimp/icon.png "攻城飞艇")](/wiki/Troops/HomeVillage/BattleBlimp/wiki.md)|[![攻城气球](/wiki/Troops/HomeVillage/StoneSlammer/icon.png "攻城气球")](/wiki/Troops/HomeVillage/StoneSlammer/wiki.md)|[![攻城训练营](/wiki/Troops/HomeVillage/SiegeBarracks/icon.png "攻城训练营")](/wiki/Troops/HomeVillage/SiegeBarracks/wiki.md)|
 |:-:|:-:|:-:|:-:|
 |攻城车|攻城飞艇|攻城气球|攻城训练营|
 
