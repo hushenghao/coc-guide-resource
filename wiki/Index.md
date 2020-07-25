@@ -50,12 +50,12 @@
 
 ## 家乡
 
-|[![弓箭女皇](/wiki/res/Heroes/ArcherQueen/icon.png "弓箭女皇")](/wiki/Heroes/ArcherQueen.md)|    [![野蛮人之王](/wiki/res/Heroes/BarbarianKing/icon.png "野蛮人之王")](/wiki/Heroes/BarbarianKing.md)| [![大守护使](/wiki/res/Heroes/GrandWarden/icon.png "大守护使")](/wiki/Heroes/GrandWarden.md)|   [![飞盾战神](/wiki/res/Heroes/RoyalChampion/icon.png "飞盾战神")](/wiki/Heroes/RoyalChampion.md)
+|[![弓箭女皇](/wiki/Heroes/ArcherQueen/icon.png "弓箭女皇")](/wiki/Heroes/ArcherQueen.md)|    [![野蛮人之王](/wiki/Heroes/BarbarianKing/icon.png "野蛮人之王")](/wiki/Heroes/BarbarianKing.md)| [![大守护使](/wiki/Heroes/GrandWarden/icon.png "大守护使")](/wiki/Heroes/GrandWarden.md)|   [![飞盾战神](/wiki/Heroes/RoyalChampion/icon.png "飞盾战神")](/wiki/Heroes/RoyalChampion.md)
 |:-:|:-:|:-:|:-:|
 |弓箭女皇|野蛮人之王|大守护使|飞盾战神|
 
 ## 建筑大师基地
-|[![战争机器](/wiki/res/Heroes/BattleMachine/icon.png "战争机器")](/wiki/Heroes/BattleMachine.md)| | | |
+|[![战争机器](/wiki/Heroes/BattleMachine/icon.png "战争机器")](/wiki/Heroes/BattleMachine.md)| | | |
 |:-:|:-:|:-:|:-:|
 |战争机器|
 

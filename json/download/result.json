@@ -1,0 +1,132 @@
+[
+    {
+        "title": "谷歌版（国际版）",
+        "icon": "/json/download/google.png",
+        "url": "http://www.baidu.com"
+    },
+    {
+        "title": "昆仑",
+        "icon": "/json/download/kunlun.png",
+        "url": "http://update.coc.kunlun.com/?channel=kunlun"
+    },
+    {
+        "title": "九游",
+        "desc": "目前豌豆荚版本可以登录九游版部落，但九游版本不能登录豌豆荚版部落，而且九游和豌豆荚这两个版本不能共存。",
+        "icon": "/json/download/9game.png",
+        "url": "https://www.9game.cn/coc/"
+    },
+    {
+        "title": "应用宝",
+        "icon": "/json/download/tencent.png",
+        "url": "https://android.myapp.com/myapp/detail.htm?apkName=com.tencent.tmgp.supercell.clashofclans"
+    },
+    {
+        "title": "360",
+        "icon": "/json/download/360.png",
+        "url": "http://u.360.cn/coc/"
+    },
+    {
+        "title": "豌豆荚",
+        "icon": "/json/download/wandoujia.png",
+        "url": "https://www.wandoujia.com/apps/6632360?original_appid=7597066"
+    },
+    {
+        "title": "VIVO",
+        "desc": "需要下载应用商店，确认后会跳转到VIVO手机助手的下载页面，请下载后搜索“部落冲突”。",
+        "icon": "/json/download/vivo.png",
+        "url": "http://zs.vivo.com.cn/"
+    },
+    {
+        "title": "OPPO",
+        "desc": "需要下载应用商店，确认后会跳转到OPPO软件商店的下载页面，请下载后搜索“部落冲突”。",
+        "icon": "/json/download/oppo.png",
+        "url": "https://store.oppomobile.com/"
+    },
+    {
+        "title": "果盘",
+        "icon": "/json/download/guopan.png",
+        "url": "http://www.guopan.cn/blct/"
+    },
+    {
+        "title": "小米",
+        "icon": "/json/download/xiaomi.png",
+        "url": "http://app.mi.com/details?id=com.supercell.clashofclans.mi"
+    },
+    {
+        "title": "安智",
+        "icon": "/json/download/anzhi.png",
+        "url": "http://www.anzhi.com/pkg/ea7c_com.supercell.clashofclans.anzhi.html"
+    },
+    {
+        "title": "百度",
+        "desc": "请认准图标右下角的熊掌标志，带熊掌标志的才是百度版。",
+        "icon": "/json/download/baidu.png",
+        "url": "https://mobile.baidu.com/search?w=%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81"
+    },
+    {
+        "title": "华为",
+        "desc": "在下载前，你需要先下载 华为应用市场、华为移动服务和华为游戏中心 ， 不然会提示登录谷歌。",
+        "icon": "/json/download/huawei.png",
+        "url": "https://appgallery1.huawei.com/#/app/C10329573"
+    },
+    {
+        "title": "4399",
+        "icon": "/json/download/4399.png",
+        "url": "http://news.4399.com/buluozz/"
+    },
+    {
+        "title": "2345",
+        "icon": "/json/download/2345.png",
+        "url": "http://zhushou.2345.com/game/174645.html"
+    },
+    {
+        "title": "搜狗",
+        "icon": "/json/download/sougou.png",
+        "url": "http://zhushou.sogou.com/apps/detail/583218.html"
+    },
+    {
+        "title": "靠谱助手",
+        "icon": "/json/download/kaopu.png",
+        "url": "http://www.kpzs.com/game/blctcoc1.html"
+    },
+    {
+        "title": "拇指玩",
+        "icon": "/json/download/muzhiwan.png",
+        "url": "https://www.muzhiwan.com/com.supercell.clashofclans.ewan.mzw.html"
+    },
+    {
+        "title": "夜神",
+        "icon": "/json/download/yeshen.png",
+        "url": "https://app.yeshen.com/games/single/9360"
+    },
+    {
+        "title": "逍遥",
+        "icon": "/json/download/xiaoyao.png",
+        "url": "https://www.xyaz.cn/gc/apps-586-1.html"
+    },
+    {
+        "title": "联想",
+        "icon": "/json/download/lenovo.png",
+        "url": "https://www.lenovomm.com/appdetail/com.supercell.clashofclans.lenovo/1224"
+    },
+    {
+        "title": "1号玩家",
+        "icon": "/json/download/1gamer.png",
+        "url": "https://www.1gamer.cn/game-id-11162.html"
+    },
+    {
+        "title": "雷电",
+        "icon": "/json/download/ldmnq.png",
+        "url": "https://www.ldmnq.com/app/1.html"
+    },
+    {
+        "title": "bilibili",
+        "icon": "/json/download/bilibili.png",
+        "url": "http://update.coc.kunlun.com/?channel=bili"
+    },
+    {
+        "title": "7723",
+        "icon": "/json/download/7723.png",
+        "url": "http://www.7723.cn/game/21378.htm"
+    }
+]
