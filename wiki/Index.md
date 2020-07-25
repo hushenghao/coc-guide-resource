@@ -2,7 +2,7 @@
 
 ## 家乡
 
-* [野蛮人](./../wiki/Troops/Barbarian.md)
+* [野蛮人](/wiki/Troops/Barbarian.md)
 
 
 ## 夜世界
