@@ -17,7 +17,7 @@
 **攻城机器**
 
 |[![攻城车](/wiki/Troops/HomeVillage/Wallwrecker/icon.png "攻城车")](/wiki/Troops/HomeVillage/Wallwrecker/wiki.md)|[![攻城飞艇](/wiki/Troops/HomeVillage/BattleBlimp/icon.png "攻城飞艇")](/wiki/Troops/HomeVillage/BattleBlimp/wiki.md)|[![攻城气球](/wiki/Troops/HomeVillage/StoneSlammer/icon.png "攻城气球")](/wiki/Troops/HomeVillage/StoneSlammer/wiki.md)|[![攻城训练营](/wiki/Troops/HomeVillage/SiegeBarracks/icon.png "攻城训练营")](/wiki/Troops/HomeVillage/SiegeBarracks/wiki.md)|
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |攻城车|攻城飞艇|攻城气球|攻城训练营|
 
 **超级部队**
@@ -71,10 +71,6 @@
 |[![战争机器](/wiki/Heroes/BattleMachine/icon.png "战争机器")](/wiki/Heroes/BattleMachine/wiki.md)| | | |
 |:-:|:-:|:-:|:-:|
 |战争机器|
-
-
-
-# 攻城机器
 
 
 # 军队建筑
