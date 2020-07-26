@@ -1,0 +1,186 @@
+[
+    {
+        "group": "家乡",
+        "list": [
+            {
+                "zh": "城墙",
+                "en": "Wall",
+                "url": "/wiki/Defenses/HomeVillage/Wall/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/Wall/Lv14.png"
+            },
+            {
+                "zh": "加农炮",
+                "en": "Cannon",
+                "url": "/wiki/Defenses/HomeVillage/Cannon/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/Cannon/Lv19.png"
+            },
+            {
+                "zh": "箭塔",
+                "en": "Archer Tower",
+                "url": "/wiki/Defenses/HomeVillage/ArcherTower/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/ArcherTower/Lv18.png"
+            },
+            {
+                "zh": "迫击炮",
+                "en": "Mortar",
+                "url": "/wiki/Defenses/HomeVillage/Mortar/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/Mortar/Lv13.png"
+            },
+            {
+                "zh": "防空火箭",
+                "en": "Air Defense",
+                "url": "/wiki/Defenses/HomeVillage/AirDefense/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/AirDefense/Lv11.png"
+            },
+            {
+                "zh": "法师塔",
+                "en": "Wizard Tower",
+                "url": "/wiki/Defenses/HomeVillage/WizardTower/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/WizardTower/Lv13.png"
+            },
+            {
+                "zh": "空气炮",
+                "en": "Air Sweeper",
+                "url": "/wiki/Defenses/HomeVillage/AirSweeper/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/AirSweeper/Lv7.png"
+            },
+            {
+                "zh": "特斯拉电磁塔",
+                "en": "Hidden Tesla",
+                "url": "/wiki/Defenses/HomeVillage/HiddenTesla/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/HiddenTesla/Lv11.png"
+            },
+            {
+                "zh": "炸弹塔",
+                "en": "Bomb Tower",
+                "url": "/wiki/Defenses/HomeVillage/BombTower/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/BombTower/Lv8.png"
+            },
+            {
+                "zh": "X连弩",
+                "en": "X-Bow",
+                "url": "/wiki/Defenses/HomeVillage/X-Bow/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/X-Bow/Lv7.png"
+            },
+            {
+                "zh": "地狱之塔",
+                "en": "Inferno Tower",
+                "url": "/wiki/Defenses/HomeVillage/InfernoTower/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/InfernoTower/Lv7.png"
+            },
+            {
+                "zh": "天鹰火炮",
+                "en": "Eagle Artillery",
+                "url": "/wiki/Defenses/HomeVillage/EagleArtillery/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/EagleArtillery/Lv4.png"
+            },
+            {
+                "zh": "巨型特斯拉电磁塔",
+                "en": "Giga Tesla",
+                "url": "/wiki/Defenses/HomeVillage/GigaTesla/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/GigaTesla/Lv5.png"
+            },
+            {
+                "zh": "巨型地狱之塔",
+                "en": "Giga Inferno",
+                "url": "/wiki/Defenses/HomeVillage/GigaInferno/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/GigaInferno/Lv5.png"
+            },
+            {
+                "zh": "投石炮",
+                "en": "Scattershot",
+                "url": "/wiki/Defenses/HomeVillage/Scattershot/wiki.md",
+                "icon": "/wiki/Defenses/HomeVillage/Scattershot/Lv2.png"
+            }
+        ]
+    },
+    {
+        "group": "建筑大师基地",
+        "list": [
+            {
+                "zh": "城墙",
+                "en": "Wall",
+                "url": "/wiki/Defenses/BuilderBase/Wall/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/Wall/Lv9.png"
+            },
+            {
+                "zh": "加农炮",
+                "en": "Cannon",
+                "url": "/wiki/Defenses/BuilderBase/Cannon/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/Cannon/Lv9.png"
+            },
+            {
+                "zh": "箭塔",
+                "en": "Archer Tower",
+                "url": "/wiki/Defenses/BuilderBase/ArcherTower/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/ArcherTower/Lv9.png"
+            },
+            {
+                "zh": "双管加农炮",
+                "en": "Double Cannon",
+                "url": "/wiki/Defenses/BuilderBase/DoubleCannon/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/DoubleCannon/Lv9.png"
+            },
+            {
+                "zh": "防空火炮",
+                "en": "Firecrackers",
+                "url": "/wiki/Defenses/BuilderBase/Firecrackers/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/Firecrackers/Lv9.png"
+            },
+            {
+                "zh": "特斯拉电磁塔",
+                "en": "Hidden Tesla",
+                "url": "/wiki/Defenses/BuilderBase/HiddenTesla/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/HiddenTesla/Lv9.png"
+            },
+            {
+                "zh": "撼地巨石",
+                "en": "Crusher",
+                "url": "/wiki/Defenses/BuilderBase/Crusher/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/Crusher/Lv9.png"
+            },
+            {
+                "zh": "守卫岗哨",
+                "en": "Guard Post",
+                "url": "/wiki/Defenses/BuilderBase/GuardPost/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/GuardPost/Lv9.png"
+            },
+            {
+                "zh": "多管迫击炮",
+                "en": "Multi Mortar",
+                "url": "/wiki/Defenses/BuilderBase/MultiMortar/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/MultiMortar/Lv9.png"
+            },
+            {
+                "zh": "空中炸弹发射器",
+                "en": "Air Bombs",
+                "url": "/wiki/Defenses/BuilderBase/AirBombs/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/AirBombs/Lv9.png"
+            },
+            {
+                "zh": "熔岩火炮",
+                "en": "Roaster",
+                "url": "/wiki/Defenses/BuilderBase/Roaster/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/Roaster/Lv9.png"
+            },
+            {
+                "zh": "巨型加农炮",
+                "en": "Giant Cannon",
+                "url": "/wiki/Defenses/BuilderBase/GiantCannon/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/GiantCannon/Lv9.png"
+            },
+            {
+                "zh": "巨型特斯拉电磁塔",
+                "en": "Mega Tesla",
+                "url": "/wiki/Defenses/BuilderBase/MegaTesla/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/MegaTesla/Lv9.png"
+            },
+            {
+                "zh": "熔岩发射器",
+                "en": "Lava Launcher",
+                "url": "/wiki/Defenses/BuilderBase/LavaLauncher/wiki.md",
+                "icon": "/wiki/Defenses/BuilderBase/LavaLauncher/Lv9.png"
+            }
+        ]
+    }
+]
