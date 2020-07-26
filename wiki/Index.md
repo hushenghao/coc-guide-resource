@@ -61,6 +61,7 @@
 |蝙蝠法术|
 
 **临时法术**
+
 |[![圣诞奇袭](/wiki/Spells/Santa'sSurprise/icon.png "圣诞奇袭")](/wiki/Spells/Santa'sSurprise/wiki.md)|[![生日大爆炸](/wiki/Spells/BirthdayBoom/icon.png "生日大爆炸")](/wiki/Spells/BirthdayBoom/wiki.md)|
 |:-:|:-:|
 |圣诞奇袭|生日大爆炸|
@@ -77,8 +78,8 @@
 
 ## 建筑大师基地
 
-|[![战争机器](/wiki/Heroes/BattleMachine/icon.png "战争机器")](/wiki/Heroes/BattleMachine/wiki.md)| | | |
-|:-:|:-:|:-:|:-:|
+|[![战争机器](/wiki/Heroes/BattleMachine/icon.png "战争机器")](/wiki/Heroes/BattleMachine/wiki.md)|
+|:-:|
 |战争机器|
 
 
