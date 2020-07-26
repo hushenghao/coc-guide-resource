@@ -9,4 +9,18 @@
 
 [Wiki](./wiki/Index.md)
 
+### 项目结构
+
+* json 
+
+    接口请求json资源
+
+* res
+
+    公共图片资源
+
+* wiki
+
+    静态Markdown资源
+
 
