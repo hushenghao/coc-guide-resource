@@ -28,7 +28,7 @@
 
 详细升级数据
 
-|图示|等级|每秒伤害|每次攻击伤害|生命值|训练所需资源|升级所需资源|所需实验室等级|所需大本营等级|升级所需时间|
+|图示|等级|每秒伤害|每次攻击伤害|生命值|训练所需资源![Elixir](/wiki/Other/Elixir.png)|升级所需资源![Elixir](/wiki/Other/Elixir.png)|所需实验室等级|所需大本营等级|升级所需时间|
 |:-:|:-:|:-:      |:-:      |:-:    |:-:        |:-:        |:-:        |:-:            |:-:        |
 |![Barbarian](/wiki/Troops/HomeVillage/Barbarian/Lv1&2.png)|1	|8	      |8	    |45     |	25	    |N/A	    |N/A        |	N/A         |	N/A     |
 |![Barbarian](/wiki/Troops/HomeVillage/Barbarian/Lv1&2.png)|2	|11	      |11	    |54     |	40	    |50,000	    |1	        |1	            |6小时      |
