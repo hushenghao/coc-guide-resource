@@ -48,6 +48,8 @@
 [![野猪飞骑](/wiki/Troops/BuilderBase/HogGlider/icon.png "野猪飞骑")](/wiki/Troops/BuilderBase/HogGlider/wiki.md)|
 |野猪飞骑|
 
+
+
 # 法术
 
 |[![雷电法术](/wiki/Spells/LightningSpell/icon.png "雷电法术")](/wiki/Spells/LightningSpell/wiki.md)|[![治疗法术](/wiki/Spells/HealingSpell/icon.png "治疗法术")](/wiki/Spells/HealingSpell/wiki.md)|[![狂暴法术](/wiki/Spells/RageSpell/icon.png "狂暴法术")](/wiki/Spells/RageSpell/wiki.md)|[![弹跳法术](/wiki/Spells/JumpSpell/icon.png "弹跳法术")](/wiki/Spells/JumpSpell/wiki.md)|[![冰冻法术](/wiki/Spells/FreezeSpell/icon.png "冰冻法术")](/wiki/Spells/FreezeSpell/wiki.md)|
@@ -59,6 +61,7 @@
 |蝙蝠法术|圣诞奇袭|生日大爆炸|
 
 
+
 # 英雄
 
 ## 家乡
@@ -68,9 +71,11 @@
 |弓箭女皇|野蛮人之王|大守护使|飞盾战神|
 
 ## 建筑大师基地
+
 |[![战争机器](/wiki/Heroes/BattleMachine/icon.png "战争机器")](/wiki/Heroes/BattleMachine/wiki.md)| | | |
 |:-:|:-:|:-:|:-:|
 |战争机器|
+
 
 
 # 军队建筑
@@ -92,11 +97,13 @@
 |兵营|建筑大师训练营|星空实验室|战争机器|
 
 
+
 # 防御建筑
 
 ## 家乡
 
 ## 建筑大师基地
+
 
 
 # 资源建筑
@@ -117,8 +124,18 @@
 |[![宝石矿井](/wiki/Resources/BuilderBase/GemMine/Lv9.png "宝石矿井")](/wiki/Resources/BuilderBase/GemMine/wiki.md)|[![储金罐](/wiki/Resources/BuilderBase/GoldStorage/Lv9.png "储金罐")](/wiki/Resources/BuilderBase/GoldStorage/wiki.md)|[![圣水罐](/wiki/Resources/BuilderBase/ElixirStorage/Lv9.png "圣水罐")](/wiki/Resources/BuilderBase/ElixirStorage/wiki.md)|
 |宝石矿井|储金罐|圣水罐|
 
+
+
 # 其他建筑
 
 ## 家乡
 
+|[![建筑工人小屋](/wiki/Other/HomeVillage/Builder'sHut/icon.png "建筑工人小屋")](/wiki/Other/HomeVillage/Builder'sHut/wiki.md)|[![建筑大师小屋](/wiki/Other/HomeVillage/MasterBuilder'sHut/icon.png "建筑大师小屋")](/wiki/Other/HomeVillage/MasterBuilder'sHut/wiki.md)|
+|:-:|:-:|
+|建筑工人小屋|建筑大师小屋|
+
 ## 建筑大师基地
+
+|[![时光钟楼](/wiki/Other/BuilderBase/ClockTower/Lv9.png "时光钟楼")](/wiki/Other/BuilderBase/ClockTower/wiki.md)|[![建筑大师小屋](/wiki/Other/BuilderBase/MasterBuilder'sHut/icon.png "建筑大师小屋")](/wiki/Other/BuilderBase/MasterBuilder'sHut/wiki.md)|[![奥仔小屋](/wiki/Other/BuilderBase/OTTOHut/Lv5.png "奥仔小屋")](/wiki/Other/BuilderBase/OTTOHut/wiki.md)|
+|:-:|:-:|:-:|
+|时光钟楼|建筑大师小屋|奥仔小屋|
