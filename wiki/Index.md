@@ -146,9 +146,9 @@
 
 ## 建筑大师基地
 
-|[![弹射陷阱](/wiki/Traps/BuilderBase/PushTrap/Lv9.png "弹射陷阱")](/wiki/Traps/BuilderBase/PushTrap/wiki.md)|[![隐形弹簧](/wiki/Traps/BuilderBase/SpringTrap/Lv5.png "隐形弹簧")](/wiki/Traps/BuilderBase/SpringTrap/wiki.md)|[![地雷](/wiki/Traps/BuilderBase/Mine/Lv9.png "地雷")](/wiki/Traps/BuilderBase/Mine/wiki.md)|[![巨型地雷](/wiki/Traps/BuilderBase/MegaMine/Lv9.png "巨型地雷")](/wiki/Traps/BuilderBase/MegaMine/wiki.md)|[![空中炸弹](/wiki/Traps/BuilderBase/AirTrap/Lv1.png "空中炸弹")](/wiki/Traps/BuilderBase/AirTrap/wiki.md)|
-|:-:|:-:|:-:|:-:|:-:|
-|弹射陷阱|隐形弹簧|地雷|巨型地雷|空中炸弹|
+|[![弹射陷阱](/wiki/Traps/BuilderBase/PushTrap/Lv9.png "弹射陷阱")](/wiki/Traps/BuilderBase/PushTrap/wiki.md)|[![隐形弹簧](/wiki/Traps/BuilderBase/SpringTrap/Lv5.png "隐形弹簧")](/wiki/Traps/BuilderBase/SpringTrap/wiki.md)|[![地雷](/wiki/Traps/BuilderBase/Mine/Lv9.png "地雷")](/wiki/Traps/BuilderBase/Mine/wiki.md)|[![巨型地雷](/wiki/Traps/BuilderBase/MegaMine/Lv9.png "巨型地雷")](/wiki/Traps/BuilderBase/MegaMine/wiki.md)|
+|:-:|:-:|:-:|:-:|
+|弹射陷阱|隐形弹簧|地雷|巨型地雷|
 
 
 # 资源建筑

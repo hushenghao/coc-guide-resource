@@ -101,12 +101,6 @@
                 "en": "Mega Mine",
                 "url": "/wiki/Traps/BuilderBase/MegaMine/wiki.md",
                 "icon": "/wiki/Traps/BuilderBase/MegaMine/Lv9.png"
-            },
-            {
-                "zh": "空中炸弹",
-                "en": "Air Trap",
-                "url": "/wiki/Traps/BuilderBase/AirTrap/wiki.md",
-                "icon": "/wiki/Traps/BuilderBase/AirTrap/Lv1.png"
             }
         ]
     }
