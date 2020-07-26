@@ -1,0 +1,90 @@
+[
+    {
+        "group": "家乡",
+        "list": [
+            {
+                "zh": "雷电法术",
+                "en": "Lightning Spell",
+                "url": "/wiki/Spells/LightningSpell/wiki.md",
+                "icon": "/wiki/Spells/LightningSpell/icon.png"
+            },
+            {
+                "zh": "治疗法术",
+                "en": "Healing Spell",
+                "url": "/wiki/Spells/HealingSpell/wiki.md",
+                "icon": "/wiki/Spells/HealingSpell/icon.png"
+            },
+            {
+                "zh": "狂暴法术",
+                "en": "Rage Spell",
+                "url": "/wiki/Spells/RageSpell/wiki.md",
+                "icon": "/wiki/Spells/RageSpell/icon.png"
+            },
+            {
+                "zh": "弹跳法术",
+                "en": "Jump Spell",
+                "url": "/wiki/Spells/JumpSpell/wiki.md",
+                "icon": "/wiki/Spells/JumpSpell/icon.png"
+            },
+            {
+                "zh": "冰冻法术",
+                "en": "Freeze Spell",
+                "url": "/wiki/Spells/FreezeSpell/wiki.md",
+                "icon": "/wiki/Spells/FreezeSpell/icon.png"
+            },
+            {
+                "zh": "镜像法术",
+                "en": "Clone Spell",
+                "url": "/wiki/Spells/CloneSpell/wiki.md",
+                "icon": "/wiki/Spells/CloneSpell/icon.png"
+            },
+            {
+                "zh": "毒药法术",
+                "en": "Poison Spell",
+                "url": "/wiki/Spells/PoisonSpell/wiki.md",
+                "icon": "/wiki/Spells/PoisonSpell/icon.png"
+            },
+            {
+                "zh": "地震法术",
+                "en": "Earthquake Spell",
+                "url": "/wiki/Spells/EarthquakeSpell/wiki.md",
+                "icon": "/wiki/Spells/EarthquakeSpell/icon.png"
+            },
+            {
+                "zh": "急速法术",
+                "en": "Haste Spell",
+                "url": "/wiki/Spells/HasteSpell/wiki.md",
+                "icon": "/wiki/Spells/HasteSpell/icon.png"
+            },
+            {
+                "zh": "骷髅法术",
+                "en": "Skeleton Spell",
+                "url": "/wiki/Spells/SkeletonSpell/wiki.md",
+                "icon": "/wiki/Spells/SkeletonSpell/icon.png"
+            },
+            {
+                "zh": "蝙蝠法术",
+                "en": "Bat Spell",
+                "url": "/wiki/Spells/BatSpell/wiki.md",
+                "icon": "/wiki/Spells/BatSpell/icon.png"
+            }
+        ]
+    },
+    {
+        "group": "临时法术",
+        "list": [
+            {
+                "zh": "圣诞奇袭",
+                "en": "Santa's Surprise",
+                "url": "/wiki/Spells/Santa'sSurprise/wiki.md",
+                "icon": "/wiki/Spells/Santa'sSurprise/icon.png"
+            },
+            {
+                "zh": "生日大爆炸",
+                "en": "Birthday Boom",
+                "url": "/wiki/Spells/BirthdayBoom/wiki.md",
+                "icon": "/wiki/Spells/BirthdayBoom/icon.png"
+            }
+        ]
+    }
+]

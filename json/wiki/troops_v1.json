@@ -184,6 +184,34 @@
         ]
     },
     {
+        "group": "攻城机器",
+        "list": [
+            {
+                "zh": "攻城车",
+                "en": "Wall Wrecker",
+                "url": "/wiki/Troops/HomeVillage/WallWrecker/wiki.md",
+                "icon": "/wiki/Troops/HomeVillage/WallWrecker/icon.png"
+            },
+            {
+                "zh": "攻城飞艇",
+                "en": "Battle Blimp",
+                "url": "/wiki/Troops/HomeVillage/BattleBlimp/wiki.md",
+                "icon": "/wiki/Troops/HomeVillage/BattleBlimp/icon.png"
+            },
+            {
+                "zh": "攻城气球",
+                "en": "Stone Slammer",
+                "url": "/wiki/Troops/HomeVillage/StoneSlammer/wiki.md",
+                "icon": "/wiki/Troops/HomeVillage/StoneSlammer/icon.png"
+            },{
+                "zh": "攻城训练营",
+                "en": "Siege Barracks",
+                "url": "/wiki/Troops/HomeVillage/SiegeBarracks/wiki.md",
+                "icon": "/wiki/Troops/HomeVillage/SiegeBarracks/icon.png"
+            }
+        ]
+    },
+    {
         "group": "临时兵种",
         "list": [
             {
@@ -212,7 +240,7 @@
             },
             {
                 "zh": "骷髅飞桶",
-                "en": "SkeletonBarrel",
+                "en": "Skeleton Barrel",
                 "url": "/wiki/Troops/HomeVillage/SkeletonBarrel/wiki.md",
                 "icon": "/wiki/Troops/HomeVillage/SkeletonBarrel/icon.png"
             },

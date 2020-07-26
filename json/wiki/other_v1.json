@@ -1,0 +1,42 @@
+[
+    {
+        "group": "家乡",
+        "list": [
+            {
+                "zh": "建筑工人小屋",
+                "en": "Builder's Hut",
+                "url": "/wiki/Other/HomeVillage/Builder'sHut/wiki.md",
+                "icon": "/wiki/Other/HomeVillage/Builder'sHut/icon.png"
+            },
+            {
+                "zh": "建筑大师小屋",
+                "en": "Master Builder's Hut",
+                "url": "/wiki/Other/HomeVillage/MasterBuilder'sHut/wiki.md",
+                "icon": "/wiki/Other/HomeVillage/MasterBuilder'sHut/icon.png"
+            }
+        ]
+    },
+    {
+        "group": "建筑大师基地",
+        "list": [
+            {
+                "zh": "时光钟楼",
+                "en": "Clock Tower",
+                "url": "/wiki/Other/BuilderBase/ClockTower/wiki.md",
+                "icon": "/wiki/Other/BuilderBase/ClockTower/Lv9.png"
+            },
+            {
+                "zh": "建筑大师小屋",
+                "en": "Master Builder's Hut",
+                "url": "/wiki/Other/BuilderBase/MasterBuilder'sHut/wiki.md",
+                "icon": "/wiki/Other/BuilderBase/MasterBuilder'sHut/icon.png"
+            },
+            {
+                "zh": "奥仔小屋",
+                "en": "O.T.T.O Hut",
+                "url": "/wiki/Other/BuilderBase/OTTOHut/wiki.md",
+                "icon": "/wiki/Other/BuilderBase/OTTOHut/Lv5.png"
+            }
+        ]
+    }
+]
