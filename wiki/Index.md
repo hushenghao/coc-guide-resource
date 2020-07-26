@@ -88,8 +88,9 @@
 ## 建筑大师基地
 
 |[![兵营](/wiki/Army/BuilderBase/ArmyCamp/icon.png "兵营")](/wiki/Army/BuilderBase/ArmyCamp/wiki.md)|[![建筑大师训练营](/wiki/Army/BuilderBase/BuilderBarracks/Lv11.png "建筑大师训练营")](/wiki/Army/BuilderBase/BuilderBarracks/wiki.md)|[![星空实验室](/wiki/Army/BuilderBase/StarLaboratory/Lv9.png "星空实验室")](/wiki/Army/BuilderBase/StarLaboratory/wiki.md)|[![战争机器](/wiki/Army/BuilderBase/BattleMachine/icon.png "战争机器")](/wiki/Army/BuilderBase/BattleMachine/wiki.md)|
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |兵营|建筑大师训练营|星空实验室|战争机器|
+
 
 # 防御建筑
 
