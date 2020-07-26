@@ -1,0 +1,100 @@
+[
+    {
+        "group": "家乡",
+        "list": [
+            {
+                "zh": "兵营",
+                "en": "Army Camp",
+                "url": "/wiki/Army/HomeVillage/ArmyCamp/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/ArmyCamp/Lv10.png"
+            },
+            {
+                "zh": "训练营",
+                "en": "Barracks",
+                "url": "/wiki/Army/HomeVillage/Barracks/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/Barracks/Lv14.png"
+            },
+            {
+                "zh": "暗黑训练营",
+                "en": "Dark Barracks",
+                "url": "/wiki/Army/HomeVillage/DarkBarracks/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/DarkBarracks/Lv9.png"
+            },
+            {
+                "zh": "实验室",
+                "en": "Royal Champion",
+                "url": "/wiki/Army/HomeVillage/Laboratory/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/Laboratory/Lv11.png"
+            },
+            {
+                "zh": "法术工厂",
+                "en": "Spell Factory",
+                "url": "/wiki/Army/HomeVillage/SpellFactory/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/SpellFactory/Lv5.png"
+            },
+            {
+                "zh": "暗黑法术工厂",
+                "en": "Dark Spell Factory",
+                "url": "/wiki/Army/HomeVillage/DarkSpellFactory/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/DarkSpellFactory/Lv5.png"
+            },
+            {
+                "zh": "攻城机器工坊",
+                "en": "Workshop",
+                "url": "/wiki/Army/HomeVillage/Workshop/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/Workshop/Lv4.png"
+            },
+            {
+                "zh": "部落城堡",
+                "en": "Clan Castle",
+                "url": "/wiki/Army/HomeVillage/ClanCastle/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/ClanCastle/Lv9.png"
+            },
+            {
+                "zh": "弓箭女皇",
+                "en": "Archer Queen",
+                "url": "/wiki/Army/HomeVillage/ArcherQueen/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/ArcherQueen/Lv11.png"
+            },
+            {
+                "zh": "野蛮人之王",
+                "en": "Barbarian King",
+                "url": "/wiki/Army/HomeVillage/BarbarianKing/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/BarbarianKing/Lv11.png"
+            },
+            {
+                "zh": "飞盾战神",
+                "en": "Royal Champion",
+                "url": "/wiki/Army/HomeVillage/RoyalChampion/wiki.md",
+                "icon": "/wiki/Army/HomeVillage/RoyalChampion/icon.png"
+            }
+        ]
+    },
+    {
+        "group": "建筑大师基地",
+        "list": [
+            {
+                "zh": "兵营",
+                "en": "Army Camp",
+                "url": "/wiki/Army/BuilderBase/ArmyCamp/wiki.md",
+                "icon": "/wiki/Army/BuilderBase/ArmyCamp/icon.png"
+            },
+            {
+                "zh": "建筑大师训练营",
+                "en": "Builder Barracks",
+                "url": "/wiki/Army/BuilderBase/BuilderBarracks/wiki.md",
+                "icon": "/wiki/Army/BuilderBase/BuilderBarracks/Lv11.png"
+            },{
+                "zh": "星空实验室",
+                "en": "Star Laboratory",
+                "url": "/wiki/Army/BuilderBase/StarLaboratory/wiki.md",
+                "icon": "/wiki/Army/BuilderBase/StarLaboratory/icon.png"
+            },{
+                "zh": "战争机器",
+                "en": "Battle Machine",
+                "url": "/wiki/Army/BuilderBase/BattleMachine/wiki.md",
+                "icon": "/wiki/Army/BuilderBase/BattleMachine/icon.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "group": "家乡",
+        "list": [
+            {
+                "zh": "隐形炸弹",
+                "en": "Bomb",
+                "url": "/wiki/Traps/HomeVillage/Bomb/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/Bomb/Lv9.png"
+            },
+            {
+                "zh": "巨型炸弹",
+                "en": "Giant Bomb",
+                "url": "/wiki/Traps/HomeVillage/GiantBomb/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/GiantBomb/Lv5.png"
+            },
+            {
+                "zh": "隐形弹簧",
+                "en": "Spring Trap",
+                "url": "/wiki/Traps/HomeVillage/SpringTrap/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/SpringTrap/Lv5.png"
+            },
+            {
+                "zh": "空中炸弹",
+                "en": "Air Bomb",
+                "url": "/wiki/Traps/HomeVillage/AirBomb/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/AirBomb/Lv7.png"
+            },
+            {
+                "zh": "搜空地雷",
+                "en": "Seeking Air Mine",
+                "url": "/wiki/Traps/HomeVillage/SeekingAirMine/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/SeekingAirMine/Lv3.png"
+            },
+            {
+                "zh": "骷髅陷阱",
+                "en": "Skeleton Trap",
+                "url": "/wiki/Traps/HomeVillage/SkeletonTrap/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/SkeletonTrap/Lv3.png"
+            },
+            {
+                "zh": "飓风陷阱",
+                "en": "Tornado Trap",
+                "url": "/wiki/Traps/HomeVillage/TornadoTrap/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/TornadoTrap/Lv1.png"
+            }
+        ]
+    },
+    {
+        "group": "临时陷阱",
+        "list": [
+            {
+                "zh": "冰冻陷阱",
+                "en": "Freeze Trap",
+                "url": "/wiki/Traps/HomeVillage/FreezeTrap/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/FreezeTrap/Lv1.png"
+            },
+            {
+                "zh": "南瓜陷阱",
+                "en": "Pumpkin Bomb",
+                "url": "/wiki/Traps/HomeVillage/PumpkinBomb/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/PumpkinBomb/Lv1.png"
+            },
+            {
+                "zh": "圣诞陷阱",
+                "en": "Santa Strike",
+                "url": "/wiki/Traps/HomeVillage/SantaStrike/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/SantaStrike/Lv1.png"
+            },
+            {
+                "zh": "玲珑陷阱",
+                "en": "Shrink Trap",
+                "url": "/wiki/Traps/HomeVillage/ShrinkTrap/wiki.md",
+                "icon": "/wiki/Traps/HomeVillage/ShrinkTrap/Lv1.png"
+            }
+        ]
+    },
+    {
+        "group": "建筑大师基地",
+        "list": [
+            {
+                "zh": "弹射陷阱",
+                "en": "Push Trap",
+                "url": "/wiki/Traps/BuilderBase/PushTrap/wiki.md",
+                "icon": "/wiki/Traps/BuilderBase/PushTrap/Lv9.png"
+            },
+            {
+                "zh": "隐形弹簧",
+                "en": "Spring Trap",
+                "url": "/wiki/Traps/BuilderBase/SpringTrap/wiki.md",
+                "icon": "/wiki/Traps/BuilderBase/SpringTrap/Lv5"
+            },
+            {
+                "zh": "地雷",
+                "en": "Mine",
+                "url": "/wiki/Traps/BuilderBase/Mine/wiki.md",
+                "icon": "/wiki/Traps/BuilderBase/Mine/Lv9.png"
+            },
+            {
+                "zh": "巨型地雷",
+                "en": "Mega Mine",
+                "url": "/wiki/Traps/BuilderBase/MegaMine/wiki.md",
+                "icon": "/wiki/Traps/BuilderBase/MegaMine/Lv9.png"
+            },
+            {
+                "zh": "空中炸弹",
+                "en": "Air Trap",
+                "url": "/wiki/Traps/BuilderBase/AirTrap/wiki.md",
+                "icon": "/wiki/Traps/BuilderBase/AirTrap/Lv1.png"
+            }
+        ]
+    }
+]
