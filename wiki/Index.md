@@ -72,9 +72,9 @@
 
 ## 家乡
 
-|[![弓箭女皇](/wiki/Heroes/ArcherQueen/icon.png "弓箭女皇")](/wiki/Heroes/ArcherQueen/wiki.md)|    [![野蛮人之王](/wiki/Heroes/BarbarianKing/icon.png "野蛮人之王")](/wiki/Heroes/BarbarianKing/wiki.md)| [![大守护使](/wiki/Heroes/GrandWarden/icon.png "大守护使")](/wiki/Heroes/GrandWarden/wiki.md)|   [![飞盾战神](/wiki/Heroes/RoyalChampion/icon.png "飞盾战神")](/wiki/Heroes/RoyalChampion/wiki.md)
+|[![弓箭女皇](/wiki/Heroes/ArcherQueen/icon.png "弓箭女皇")](/wiki/Heroes/ArcherQueen/wiki.md)|    [![野蛮人之王](/wiki/Heroes/BarbarianKing/icon.png "野蛮人之王")](/wiki/Heroes/BarbarianKing/wiki.md)| [![大守护者](/wiki/Heroes/GrandWarden/icon.png "大守护者")](/wiki/Heroes/GrandWarden/wiki.md)|   [![飞盾战神](/wiki/Heroes/RoyalChampion/icon.png "飞盾战神")](/wiki/Heroes/RoyalChampion/wiki.md)
 |:-:|:-:|:-:|:-:|
-|弓箭女皇|野蛮人之王|大守护使|飞盾战神|
+|弓箭女皇|野蛮人之王|大守护者|飞盾战神|
 
 ## 建筑大师基地
 
