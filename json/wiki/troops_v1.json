@@ -139,7 +139,12 @@
                 "en": "Headhunter",
                 "url": "/wiki/Troops/HomeVillage/Headhunter/wiki.md",
                 "icon": "/wiki/Troops/HomeVillage/Headhunter/icon.png"
-            },
+            }
+        ]
+    },
+    {
+        "group": "超级部队",
+        "list": [
             {
                 "zh": "超级野蛮人",
                 "en": "Super Barbarian",
@@ -175,7 +180,12 @@
                 "en": "Super Witch",
                 "url": "/wiki/Troops/HomeVillage/SuperWitch/wiki.md",
                 "icon": "/wiki/Troops/HomeVillage/SuperWitch/icon.png"
-            },
+            }
+        ]
+    },
+    {
+        "group": "临时兵种",
+        "list": [
             {
                 "zh": "寒冰法师",
                 "en": "Ice Wizard",
