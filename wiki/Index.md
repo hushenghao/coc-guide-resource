@@ -77,8 +77,19 @@
 
 ## 家乡
 
-### 建筑大师基地
+|[![兵营](/wiki/Army/HomeVillage/ArmyCamp/Lv10.png "兵营")](/wiki/Army/HomeVillage/ArmyCamp/wiki.md)|[![训练营](/wiki/Army/HomeVillage/Barracks/Lv14.png "训练营")](/wiki/Army/HomeVillage/Barracks/wiki.md)|[![暗黑训练营](/wiki/Army/HomeVillage/DarkBarracks/Lv9.png "暗黑训练营")](/wiki/Army/HomeVillage/Barracks/wiki.md)|[![实验室](/wiki/Army/HomeVillage/Laboratory/Lv11.png "实验室")](/wiki/Army/HomeVillage/Laboratory/wiki.md)|[![法术工厂](/wiki/Army/HomeVillage/SpellFactory/Lv5.png "法术工厂")](/wiki/Army/HomeVillage/SpellFactory/wiki.md)|
+|:-:|:-:|:-:|:-:|:-:|
+|兵营|训练营|暗黑训练营|实验室|法术工厂|
+|[![暗黑法术工厂](/wiki/Army/HomeVillage/DarkSpellFactory/Lv5.png "暗黑法术工厂")](/wiki/Army/HomeVillage/DarkSpellFactory/wiki.md)|[![攻城机器工坊](/wiki/Army/HomeVillage/Workshop/Lv4.png "攻城机器工坊")](/wiki/Army/HomeVillage/Workshop/wiki.md)|[![部落城堡](/wiki/Resources/HomeVillage/ClanCastle/Lv9.png "部落城堡")](/wiki/Resources/HomeVillage/ClanCastle/wiki.md)|
+|暗黑法术工厂|攻城机器工坊|部落城堡|
+|[![弓箭女皇](/wiki/Army/HomeVillage/ArcherQueen/icon.png "弓箭女皇")](/wiki/Army/HomeVillage/ArcherQueen/wiki.md)|[![野蛮人之王](/wiki/Army/HomeVillage/BarbarianKing/icon.png "野蛮人之王")](/wiki/Army/HomeVillage/BarbarianKing/wiki.md)|[![飞盾战神](/wiki/Army/HomeVillage/RoyalChampion/icon.png "飞盾战神")](/wiki/Army/HomeVillage/RoyalChampion/wiki.md)|
+|弓箭女皇|野蛮人之王|飞盾战神|
 
+## 建筑大师基地
+
+|[![兵营](/wiki/Army/BuilderBase/ArmyCamp/icon.png "兵营")](/wiki/Army/BuilderBase/ArmyCamp/wiki.md)|[![建筑大师训练营](/wiki/Army/BuilderBase/BuilderBarracks/Lv11.png "建筑大师训练营")](/wiki/Army/BuilderBase/BuilderBarracks/wiki.md)|[![星空实验室](/wiki/Army/BuilderBase/StarLaboratory/Lv9.png "星空实验室")](/wiki/Army/BuilderBase/StarLaboratory/wiki.md)|[![战争机器](/wiki/Army/BuilderBase/BattleMachine/icon.png "战争机器")](/wiki/Army/BuilderBase/BattleMachine/wiki.md)|
+|:-:|:-:|:-:|:-:|:-:|
+|兵营|建筑大师训练营|星空实验室|战争机器|
 
 # 防御建筑
 
@@ -91,8 +102,19 @@
 
 ## 家乡
 
+|[![大本营](/wiki/Resources/HomeVillage/TownHall/Lv13.png "大本营")](/wiki/Resources/HomeVillage/TownHall/wiki.md)|[![金矿](/wiki/Resources/HomeVillage/GoldMine/Lv14.png "金矿")](/wiki/Resources/HomeVillage/GoldMine/wiki.md)|[![圣水采集器](/wiki/Resources/HomeVillage/ElixirCollector/Lv14.png "圣水采集器")](/wiki/Resources/HomeVillage/ElixirCollector/wiki.md)|[![暗黑重油钻井](/wiki/Resources/HomeVillage/DarkElixirDrill/Lv8.png "暗黑重油钻井")](/wiki/Resources/HomeVillage/DarkElixirDrill/wiki.md)|
+|:-:|:-:|:-:|:-:|
+|大本营|金矿|圣水采集器|暗黑重油钻井|
+|[![部落城堡](/wiki/Resources/HomeVillage/ClanCastle/Lv9.png "部落城堡")](/wiki/Resources/HomeVillage/ClanCastle/wiki.md)|[![储金罐](/wiki/Resources/HomeVillage/GoldStorage/Lv14.png "储金罐")](/wiki/Resources/HomeVillage/GoldStorage/wiki.md)|[![圣水罐](/wiki/Resources/HomeVillage/ElixirStorage/Lv14.png "圣水罐")](/wiki/Resources/HomeVillage/ElixirStorage/wiki.md)|[![暗黑重油罐](/wiki/Resources/HomeVillage/DarkElixirStorage/Lv8.png "暗黑重油罐")](/wiki/Resources/HomeVillage/DarkElixirStorage/wiki.md)|
+|部落城堡|储金罐|圣水罐|暗黑重油罐|
+
 ## 建筑大师基地
 
+|[![建筑大师大本营](/wiki/Resources/BuilderBase/BuilderHall/Lv9.png "建筑大师大本营")](/wiki/Resources/BuilderBase/BuilderHall/wiki.md)|[![金矿](/wiki/Resources/BuilderBase/GoldMine/Lv9.png "金矿")](/wiki/Resources/BuilderBase/GoldMine/wiki.md)|[![圣水采集器](/wiki/Resources/BuilderBase/ElixirCollector/Lv9.png "圣水采集器")](/wiki/Resources/BuilderBase/ElixirCollector/wiki.md)|
+|:-:|:-:|:-:|
+|建筑大师大本营|金矿|圣水采集器|
+|[![宝石矿井](/wiki/Resources/BuilderBase/GemMine/Lv9.png "宝石矿井")](/wiki/Resources/BuilderBase/GemMine/wiki.md)|[![储金罐](/wiki/Resources/BuilderBase/GoldStorage/Lv9.png "储金罐")](/wiki/Resources/BuilderBase/GoldStorage/wiki.md)|[![圣水罐](/wiki/Resources/BuilderBase/ElixirStorage/Lv9.png "圣水罐")](/wiki/Resources/BuilderBase/ElixirStorage/wiki.md)|
+|宝石矿井|储金罐|圣水罐|
 
 # 其他建筑
 
