@@ -1,0 +1,96 @@
+[
+    {
+        "group": "家乡",
+        "list": [
+            {
+                "zh": "大本营",
+                "en": "Town Hall",
+                "url": "/wiki/Resources/HomeVillage/TownHall/wiki.md",
+                "icon": "/wiki/Resources/HomeVillage/TownHall/Lv13.png"
+            },
+            {
+                "zh": "金矿",
+                "en": "Gold Mine",
+                "url": "/wiki/Resources/HomeVillage/GoldMine/wiki.md",
+                "icon": "/wiki/Resources/HomeVillage/GoldMine/Lv14.png"
+            },
+            {
+                "zh": "圣水采集器",
+                "en": "Elixir Collector",
+                "url": "/wiki/Resources/HomeVillage/ElixirCollector/wiki.md",
+                "icon": "/wiki/Resources/HomeVillage/ElixirCollector/Lv14.png"
+            },
+            {
+                "zh": "暗黑重油钻井",
+                "en": "Dark Elixir Drill",
+                "url": "/wiki/Resources/HomeVillage/DarkElixirDrill/wiki.md",
+                "icon": "/wiki/Resources/HomeVillage/DarkElixirDrill/Lv8.png"
+            },
+            {
+                "zh": "部落城堡",
+                "en": "Clan Castle",
+                "url": "/wiki/Resources/HomeVillage/ClanCastle/wiki.md",
+                "icon": "/wiki/Resources/HomeVillage/ClanCastle/Lv9.png"
+            },
+            {
+                "zh": "储金罐",
+                "en": "Gold Storage",
+                "url": "/wiki/Resources/HomeVillage/GoldStorage/wiki.md",
+                "icon": "/wiki/Resources/HomeVillage/GoldStorage/Lv14.png"
+            },
+            {
+                "zh": "圣水罐",
+                "en": "Elixir Storage",
+                "url": "/wiki/Resources/HomeVillage/ElixirStorage/wiki.md",
+                "icon": "/wiki/Resources/HomeVillage/ElixirStorage/Lv14.png"
+            },
+            {
+                "zh": "暗黑重油罐",
+                "en": "Dark Elixir Storage",
+                "url": "/wiki/Resources/HomeVillage/DarkElixirStorage/wiki.md",
+                "icon": "/wiki/Resources/HomeVillage/DarkElixirStorage/Lv8.png"
+            }
+        ]
+    },
+    {
+        "group": "建筑大师基地",
+        "list": [
+            {
+                "zh": "建筑大师大本营",
+                "en": "Builder Hall",
+                "url": "/wiki/Resources/BuilderBase/BuilderHall/wiki.md",
+                "icon": "/wiki/Resources/BuilderBase/BuilderHall/Lv9.png"
+            },
+            {
+                "zh": "金矿",
+                "en": "Gold Mine",
+                "url": "/wiki/Resources/BuilderBase/GoldMine/wiki.md",
+                "icon": "/wiki/Resources/BuilderBase/GoldMine/Lv9.png"
+            },
+            {
+                "zh": "圣水采集器",
+                "en": "Elixir Collector",
+                "url": "/wiki/Resources/BuilderBase/ElixirCollector/wiki.md",
+                "icon": "/wiki/Resources/BuilderBase/ElixirCollector/Lv9.png"
+            },
+            {
+                "zh": "宝石矿井",
+                "en": "Gem Mine",
+                "url": "/wiki/Resources/BuilderBase/GemMine/wiki.md",
+                "icon": "/wiki/Resources/BuilderBase/GemMine/Lv9.png"
+            },
+            {
+                "zh": "储金罐",
+                "en": "Gold Storage",
+                "url": "/wiki/Resources/BuilderBase/GoldStorage/wiki.md",
+                "icon": "/wiki/Resources/BuilderBase/GoldStorage/Lv9.png"
+            },
+            {
+                "zh": "圣水罐",
+                "en": "Elixir Storage",
+                "url": "/wiki/Resources/BuilderBase/ElixirStorage/wiki.md",
+                "icon": "/wiki/Resources/BuilderBase/ElixirStorage/Lv9.png"
+            }
+        ]
+    }
+]
