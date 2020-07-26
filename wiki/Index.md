@@ -57,8 +57,13 @@
 |雷电法术|治疗法术|狂暴法术|弹跳法术|冰冻法术|
 |[![镜像法术](/wiki/Spells/CloneSpell/icon.png "镜像法术")](/wiki/Spells/CloneSpell/wiki.md)|[![毒药法术](/wiki/Spells/PoisonSpell/icon.png "毒药法术")](/wiki/Spells/PoisonSpell/wiki.md)|[![地震法术](/wiki/Spells/EarthquakeSpell/icon.png "地震法术")](/wiki/Spells/EarthquakeSpell/wiki.md)|[![急速法术](/wiki/Spells/HasteSpell/icon.png "急速法术")](/wiki/Spells/HasteSpell/wiki.md)|[![骷髅法术](/wiki/Spells/SkeletonSpell/icon.png "骷髅法术")](/wiki/Spells/SkeletonSpell/wiki.md)|
 |镜像法术|毒药法术|地震法术|急速法术|骷髅法术|
-|[![雷电法术](/wiki/Spells/BatSpell/icon.png "雷电法术")](/wiki/Spells/BatSpell/wiki.md)|[![圣诞奇袭](/wiki/Spells/Santa'sSurprise/icon.png "圣诞奇袭")](/wiki/Spells/Santa'sSurprise/wiki.md)|[![生日大爆炸](/wiki/Spells/BirthdayBoom/icon.png "生日大爆炸")](/wiki/Spells/BirthdayBoom/wiki.md)|
-|蝙蝠法术|圣诞奇袭|生日大爆炸|
+|[![蝙蝠法术](/wiki/Spells/BatSpell/icon.png "蝙蝠法术")](/wiki/Spells/BatSpell/wiki.md)|
+|蝙蝠法术|
+
+**临时法术**
+|[![圣诞奇袭](/wiki/Spells/Santa'sSurprise/icon.png "圣诞奇袭")](/wiki/Spells/Santa'sSurprise/wiki.md)|[![生日大爆炸](/wiki/Spells/BirthdayBoom/icon.png "生日大爆炸")](/wiki/Spells/BirthdayBoom/wiki.md)|
+|:-:|:-:|
+|圣诞奇袭|生日大爆炸|
 
 
 
@@ -101,6 +106,12 @@
 # 防御建筑
 
 ## 家乡
+
+|[![城墙](/wiki/Defenses/HomeVillage/Wall/Lv14.png "城墙")](/wiki/Defenses/HomeVillage/Wall/wiki.md)|[![加农炮](/wiki/Defenses/HomeVillage/Cannon/Lv19.png "加农炮")](/wiki/Defenses/HomeVillage/Cannon/wiki.md)|[![箭塔](/wiki/Defenses/HomeVillage/ArcherTower/Lv18.png "箭塔")](/wiki/Defenses/HomeVillage/ArcherTower/wiki.md)|[![迫击炮](/wiki/Defenses/HomeVillage/Mortar/Lv13.png "迫击炮")](/wiki/Defenses/HomeVillage/Mortar/wiki.md)|[![防空火箭](/wiki/Defenses/HomeVillage/AirDefense/Lv11.png "防空火箭")](/wiki/Defenses/HomeVillage/AirDefense/wiki.md)|
+|:-:|:-:|:-:|:-:|:-:|
+|城墙|加农炮|箭塔|迫击炮|防空火箭|
+|[![法师塔](/wiki/Defenses/HomeVillage/WizardTower/Lv13.png "法师塔")](/wiki/Defenses/HomeVillage/WizardTower/wiki.md)|[![空气炮](/wiki/Defenses/HomeVillage/AirSweeper/Lv7.png "空气炮")](/wiki/Defenses/HomeVillage/AirSweeper/wiki.md)|[![特斯拉电塔](/wiki/Defenses/HomeVillage/HiddenTesla/Lv11.png "特斯拉电塔")](/wiki/Defenses/HomeVillage/HiddenTesla/wiki.md)|[![炸弹塔](/wiki/Defenses/HomeVillage/BombTower/Lv8.png "炸弹塔")](/wiki/Defenses/HomeVillage/BombTower/wiki.md)|[![X连弩](/wiki/Defenses/HomeVillage/X-Bow/Lv7.png "X连弩")](/wiki/Defenses/HomeVillage/X-Bow/wiki.md)|
+|法师塔|空气炮|特斯拉电塔|炸弹塔|X连弩|
 
 ## 建筑大师基地
 
