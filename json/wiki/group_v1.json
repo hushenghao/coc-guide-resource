@@ -1,0 +1,50 @@
+[
+    {
+        "zh": "兵种",
+        "en": "Troops",
+        "icon": "",
+        "url": "/json/wiki/troops_v1.json"
+    },
+    {
+        "zh": "英雄",
+        "en": "Heroes",
+        "icon": "",
+        "url": "/json/wiki/heroes_v1.json"
+    },
+    {
+        "zh": "法术",
+        "en": "Spells",
+        "icon": "",
+        "url": "/json/wiki/spells_v1.json"
+    },
+    {
+        "zh": "军队建筑",
+        "en": "Army",
+        "icon": "",
+        "url": "/json/wiki/army_v1.json"
+    },
+    {
+        "zh": "防御",
+        "en": "Defenses",
+        "icon": "",
+        "url": "/json/wiki/defenses_v1.json"
+    },
+    {
+        "zh": "资源建筑",
+        "en": "Resources",
+        "icon": "",
+        "url": "/json/wiki/resources_v1.json"
+    },
+    {
+        "zh": "陷阱",
+        "en": "Traps",
+        "icon": "",
+        "url": "/json/wiki/traps_v1.json"
+    },
+    {
+        "zh": "其他",
+        "en": "Other",
+        "icon": "",
+        "url": "/json/wiki/other_v1.json"
+    }
+]
