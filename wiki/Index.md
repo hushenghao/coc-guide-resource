@@ -29,7 +29,7 @@
 |超级女巫|
 
 
-**临时兵种**
+**活动兵种**
 
 |[![寒冰法师](/wiki/Troops/HomeVillage/IceWizard/icon.png "寒冰法师")](/wiki/Troops/HomeVillage/IceWizard/wiki.md)|[![野蛮人攻城锤](/wiki/Troops/HomeVillage/BattleRam/icon.png "野蛮人攻城锤")](/wiki/Troops/HomeVillage/BattleRam/wiki.md)|[![南瓜野蛮人](/wiki/Troops/HomeVillage/PumpkinBarbarian/icon.png "南瓜野蛮人")](/wiki/Troops/HomeVillage/PumpkinBarbarian/wiki.md)|[![骷髅巨人](/wiki/Troops/HomeVillage/GiantSkeleton/icon.png "骷髅巨人")](/wiki/Troops/HomeVillage/GiantSkeleton/wiki.md)|[![骷髅飞桶](/wiki/Troops/HomeVillage/SkeletonBarrel/icon.png "骷髅飞桶")](/wiki/Troops/HomeVillage/SkeletonBarrel/wiki.md)|
 |:-:|:-:|:-:|:-:|:-:|
@@ -60,7 +60,7 @@
 |[![蝙蝠法术](/wiki/Spells/BatSpell/icon.png "蝙蝠法术")](/wiki/Spells/BatSpell/wiki.md)|
 |蝙蝠法术|
 
-**临时法术**
+**活动法术**
 
 |[![圣诞奇袭](/wiki/Spells/Santa'sSurprise/icon.png "圣诞奇袭")](/wiki/Spells/Santa'sSurprise/wiki.md)|[![生日大爆炸](/wiki/Spells/BirthdayBoom/icon.png "生日大爆炸")](/wiki/Spells/BirthdayBoom/wiki.md)|
 |:-:|:-:|
@@ -136,7 +136,11 @@
 |隐形炸弹|巨型炸弹|隐形弹簧|空中炸弹|搜空地雷|
 |[![骷髅陷阱](/wiki/Traps/HomeVillage/SkeletonTrap/Lv3.png "骷髅陷阱")](/wiki/Traps/HomeVillage/SkeletonTrap/wiki.md)|[![飓风陷阱](/wiki/Traps/HomeVillage/TornadoTrap/Lv1.png "飓风陷阱")](/wiki/Traps/HomeVillage/TornadoTrap/wiki.md)|
 |骷髅陷阱|飓风陷阱|
+
+**活动陷阱**
+
 |[![冰冻陷阱](/wiki/Traps/HomeVillage/FreezeTrap/Lv1.png "冰冻陷阱")](/wiki/Traps/HomeVillage/FreezeTrap/wiki.md)|[![南瓜陷阱](/wiki/Traps/HomeVillage/PumpkinBomb/Lv1.png "南瓜陷阱")](/wiki/Traps/HomeVillage/PumpkinBomb/wiki.md)|[![圣诞陷阱](/wiki/Traps/HomeVillage/SantaStrike/Lv1.png "圣诞陷阱")](/wiki/Traps/HomeVillage/SantaStrike/wiki.md)|[![玲珑陷阱](/wiki/Traps/HomeVillage/ShrinkTrap/Lv1.png "玲珑陷阱")](/wiki/Traps/HomeVillage/ShrinkTrap/wiki.md)|
+|:-:|:-:|:-:|:-:|
 |冰冻陷阱|南瓜陷阱|圣诞陷阱|玲珑陷阱|
 
 
