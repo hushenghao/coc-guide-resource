@@ -4,7 +4,7 @@
 
 <!-- ![Relative date](https://img.shields.io/date/1595634404?label=last&nbsp;change)-->
 
-![GitHub last commit](https://img.shields.io/github/last-commit/hushenghao/coc-guide-resource) ![GitHub contributors](https://img.shields.io/github/contributors-anon/hushenghao/coc-guide-resource)
+![GitHub](https://img.shields.io/github/license/hushenghao/coc-guide-resource)  ![GitHub last commit](https://img.shields.io/github/last-commit/hushenghao/coc-guide-resource)  ![GitHub contributors](https://img.shields.io/github/contributors-anon/hushenghao/coc-guide-resource)
 
 
 [Wiki](./wiki/Index.md)
