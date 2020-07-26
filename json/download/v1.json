@@ -61,7 +61,7 @@
         "title": "百度",
         "desc": "请认准图标右下角的熊掌标志，带熊掌标志的才是百度版。",
         "icon": "/json/download/baidu.png",
-        "url": "https://mobile.baidu.com/item?docid=27087518&f0=search_searchContent%400_appBaseNormal%400"
+        "url": "https://mobile.baidu.com/search?w=%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81"
     },
     {
         "title": "华为",
