@@ -7,6 +7,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hushenghao/coc-guide-resource) ![GitHub contributors](https://img.shields.io/github/contributors-anon/hushenghao/coc-guide-resource)
 
 
-[Wiki](./wiki/INDEX.md)
+[Wiki](./wiki/Index.md)
 
 
