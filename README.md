@@ -2,9 +2,12 @@
 
 这是一个部落冲突的资源仓库
 
-<!-- ![Relative date](https://img.shields.io/date/1595634404?label=last&nbsp;change)-->
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
-![GitHub](https://img.shields.io/github/license/hushenghao/coc-guide-resource)  ![GitHub last commit](https://img.shields.io/github/last-commit/hushenghao/coc-guide-resource)  ![GitHub contributors](https://img.shields.io/github/contributors-anon/hushenghao/coc-guide-resource)
+![last commit](https://badgen.net/github/last-commit/hushenghao/coc-guide-resource)
+![commits count](https://badgen.net/github/commits/hushenghao/coc-guide-resource)
+![license](https://badgen.net/github/license/hushenghao/coc-guide-resource)
+![contributors](https://badgen.net/github/contributors/hushenghao/coc-guide-resource)
 
 
 [Wiki](./wiki/Index.md)
@@ -24,3 +27,12 @@
     静态Markdown资源
 
 
+
+### 数据来源
+
+- [部落冲突指导 - 升级数据、游戏下载、攻略教程](https://www.cocservice.top/)
+- [Clash of Clans Guide](https://coc.guide/)
+- [Clash of Clans 中文 | Fandom](https://clashofclans.fandom.com/zh/wiki/Clash_of_Clans_Chinese_%E7%BB%B4%E5%9F%BA)
+
+
+[数据有误](https://github.com/hushenghao/coc-guide-resource/pulls)
