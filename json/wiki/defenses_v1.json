@@ -6,7 +6,7 @@
                 "zh": "城墙",
                 "en": "Wall",
                 "url": "/wiki/Defenses/HomeVillage/Wall/wiki.md",
-                "icon": "/wiki/Defenses/HomeVillage/Wall/Lv14.png"
+                "icon": "/wiki/Defenses/HomeVillage/Wall/icon.png"
             },
             {
                 "zh": "加农炮",
@@ -101,7 +101,7 @@
                 "zh": "城墙",
                 "en": "Wall",
                 "url": "/wiki/Defenses/BuilderBase/Wall/wiki.md",
-                "icon": "/wiki/Defenses/BuilderBase/Wall/Lv9.png"
+                "icon": "/wiki/Defenses/BuilderBase/Wall/icon.png"
             },
             {
                 "zh": "加农炮",

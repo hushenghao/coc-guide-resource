@@ -108,7 +108,7 @@
 
 ## 家乡
 
-|[![城墙](/wiki/Defenses/HomeVillage/Wall/Lv14.png "城墙")](/wiki/Defenses/HomeVillage/Wall/wiki.md)|[![加农炮](/wiki/Defenses/HomeVillage/Cannon/Lv19.png "加农炮")](/wiki/Defenses/HomeVillage/Cannon/wiki.md)|[![箭塔](/wiki/Defenses/HomeVillage/ArcherTower/Lv18.png "箭塔")](/wiki/Defenses/HomeVillage/ArcherTower/wiki.md)|[![迫击炮](/wiki/Defenses/HomeVillage/Mortar/Lv13.png "迫击炮")](/wiki/Defenses/HomeVillage/Mortar/wiki.md)|[![防空火箭](/wiki/Defenses/HomeVillage/AirDefense/Lv11.png "防空火箭")](/wiki/Defenses/HomeVillage/AirDefense/wiki.md)|
+|[![城墙](/wiki/Defenses/HomeVillage/Wall/icon.png "城墙")](/wiki/Defenses/HomeVillage/Wall/wiki.md)|[![加农炮](/wiki/Defenses/HomeVillage/Cannon/Lv19.png "加农炮")](/wiki/Defenses/HomeVillage/Cannon/wiki.md)|[![箭塔](/wiki/Defenses/HomeVillage/ArcherTower/Lv18.png "箭塔")](/wiki/Defenses/HomeVillage/ArcherTower/wiki.md)|[![迫击炮](/wiki/Defenses/HomeVillage/Mortar/Lv13.png "迫击炮")](/wiki/Defenses/HomeVillage/Mortar/wiki.md)|[![防空火箭](/wiki/Defenses/HomeVillage/AirDefense/Lv11.png "防空火箭")](/wiki/Defenses/HomeVillage/AirDefense/wiki.md)|
 |:-:|:-:|:-:|:-:|:-:|
 |城墙|加农炮|箭塔|迫击炮|防空火箭|
 |[![法师塔](/wiki/Defenses/HomeVillage/WizardTower/Lv13.png "法师塔")](/wiki/Defenses/HomeVillage/WizardTower/wiki.md)|[![空气炮](/wiki/Defenses/HomeVillage/AirSweeper/Lv7.png "空气炮")](/wiki/Defenses/HomeVillage/AirSweeper/wiki.md)|[![特斯拉电磁塔](/wiki/Defenses/HomeVillage/HiddenTesla/Lv11.png "特斯拉电磁塔")](/wiki/Defenses/HomeVillage/HiddenTesla/wiki.md)|[![炸弹塔](/wiki/Defenses/HomeVillage/BombTower/Lv8.png "炸弹塔")](/wiki/Defenses/HomeVillage/BombTower/wiki.md)|[![X连弩](/wiki/Defenses/HomeVillage/X-Bow/Lv7.png "X连弩")](/wiki/Defenses/HomeVillage/X-Bow/wiki.md)|
@@ -118,7 +118,7 @@
 
 ## 建筑大师基地
 
-|[![城墙](/wiki/Defenses/BuilderBase/Wall/Lv9.png "城墙")](/wiki/Defenses/BuilderBase/Wall/wiki.md)|[![加农炮](/wiki/Defenses/BuilderBase/Cannon/Lv9.png "加农炮")](/wiki/Defenses/BuilderBase/Cannon/wiki.md)|[![箭塔](/wiki/Defenses/BuilderBase/ArcherTower/Lv9.png "箭塔")](/wiki/Defenses/BuilderBase/ArcherTower/wiki.md)|[![双管加农炮](/wiki/Defenses/BuilderBase/DoubleCannon/Lv9.png "双管加农炮")](/wiki/Defenses/BuilderBase/DoubleCannon/wiki.md)|[![防空火炮](/wiki/Defenses/BuilderBase/Firecrackers/Lv9.png "防空火炮")](/wiki/Defenses/BuilderBase/Firecrackers/wiki.md)|
+|[![城墙](/wiki/Defenses/BuilderBase/Wall/icon.png "城墙")](/wiki/Defenses/BuilderBase/Wall/wiki.md)|[![加农炮](/wiki/Defenses/BuilderBase/Cannon/Lv9.png "加农炮")](/wiki/Defenses/BuilderBase/Cannon/wiki.md)|[![箭塔](/wiki/Defenses/BuilderBase/ArcherTower/Lv9.png "箭塔")](/wiki/Defenses/BuilderBase/ArcherTower/wiki.md)|[![双管加农炮](/wiki/Defenses/BuilderBase/DoubleCannon/Lv9.png "双管加农炮")](/wiki/Defenses/BuilderBase/DoubleCannon/wiki.md)|[![防空火炮](/wiki/Defenses/BuilderBase/Firecrackers/Lv9.png "防空火炮")](/wiki/Defenses/BuilderBase/Firecrackers/wiki.md)|
 |:-:|:-:|:-:|:-:|:-:|
 |城墙|加农炮|箭塔|双管加农炮|防空火炮|
 |[![特斯拉电磁塔](/wiki/Defenses/BuilderBase/HiddenTesla/Lv9.png "特斯拉电磁塔")](/wiki/Defenses/BuilderBase/HiddenTesla/wiki.md)|[![撼地巨石](/wiki/Defenses/BuilderBase/Crusher/Lv9.png "撼地巨石")](/wiki/Defenses/BuilderBase/Crusher/wiki.md)|[![守卫岗哨](/wiki/Defenses/BuilderBase/GuardPost/Lv9.png "守卫岗哨")](/wiki/Defenses/BuilderBase/GuardPost/wiki.md)|[![多管迫击炮](/wiki/Defenses/BuilderBase/MultiMortar/Lv9.png "多管迫击炮")](/wiki/Defenses/BuilderBase/MultiMortar/wiki.md)|[![空中炸弹发射器](/wiki/Defenses/BuilderBase/AirBombs/Lv9.png "空中炸弹发射器")](/wiki/Defenses/BuilderBase/AirBombs/wiki.md)|
@@ -131,10 +131,10 @@
 
 ## 家乡
 
-|[![隐形炸弹](/wiki/Traps/HomeVillage/Bomb/Lv9.png "隐形炸弹")](/wiki/Traps/HomeVillage/Bomb/wiki.md)|[![巨型炸弹](/wiki/Traps/HomeVillage/GiantBomb/Lv5.png "巨型炸弹")](/wiki/Traps/HomeVillage/GiantBomb/wiki.md)|[![隐形弹簧](/wiki/Traps/HomeVillage/SpringTrap/Lv5.png "隐形弹簧")](/wiki/Traps/HomeVillage/SpringTrap/wiki.md)|[![空中炸弹](/wiki/Traps/HomeVillage/AirBomb/Lv7.png "空中炸弹")](/wiki/Traps/HomeVillage/AirBomb/wiki.md)|[![搜空地雷](/wiki/Traps/HomeVillage/SeekingAirMine/Lv3.png "搜空地雷")](/wiki/Traps/HomeVillage/SeekingAirMine/wiki.md)|
+|[![隐形炸弹](/wiki/Traps/HomeVillage/Bomb/Lv9.png "隐形炸弹")](/wiki/Traps/HomeVillage/Bomb/wiki.md)|[![巨型炸弹](/wiki/Traps/HomeVillage/GiantBomb/Lv5-6.png "巨型炸弹")](/wiki/Traps/HomeVillage/GiantBomb/wiki.md)|[![隐形弹簧](/wiki/Traps/HomeVillage/SpringTrap/Lv5.png "隐形弹簧")](/wiki/Traps/HomeVillage/SpringTrap/wiki.md)|[![空中炸弹](/wiki/Traps/HomeVillage/AirBomb/Lv7.png "空中炸弹")](/wiki/Traps/HomeVillage/AirBomb/wiki.md)|[![搜空地雷](/wiki/Traps/HomeVillage/SeekingAirMine/Lv3-4.png "搜空地雷")](/wiki/Traps/HomeVillage/SeekingAirMine/wiki.md)|
 |:-:|:-:|:-:|:-:|:-:|
 |隐形炸弹|巨型炸弹|隐形弹簧|空中炸弹|搜空地雷|
-|[![骷髅陷阱](/wiki/Traps/HomeVillage/SkeletonTrap/Lv3.png "骷髅陷阱")](/wiki/Traps/HomeVillage/SkeletonTrap/wiki.md)|[![飓风陷阱](/wiki/Traps/HomeVillage/TornadoTrap/Lv1.png "飓风陷阱")](/wiki/Traps/HomeVillage/TornadoTrap/wiki.md)|
+|[![骷髅陷阱](/wiki/Traps/HomeVillage/SkeletonTrap/Lv3-4.png "骷髅陷阱")](/wiki/Traps/HomeVillage/SkeletonTrap/wiki.md)|[![飓风陷阱](/wiki/Traps/HomeVillage/TornadoTrap/Lv2-3.png "飓风陷阱")](/wiki/Traps/HomeVillage/TornadoTrap/wiki.md)|
 |骷髅陷阱|飓风陷阱|
 
 **活动陷阱**

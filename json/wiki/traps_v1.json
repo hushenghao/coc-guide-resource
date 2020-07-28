@@ -12,7 +12,7 @@
                 "zh": "巨型炸弹",
                 "en": "Giant Bomb",
                 "url": "/wiki/Traps/HomeVillage/GiantBomb/wiki.md",
-                "icon": "/wiki/Traps/HomeVillage/GiantBomb/Lv5.png"
+                "icon": "/wiki/Traps/HomeVillage/GiantBomb/Lv5-6.png"
             },
             {
                 "zh": "隐形弹簧",
@@ -30,19 +30,19 @@
                 "zh": "搜空地雷",
                 "en": "Seeking Air Mine",
                 "url": "/wiki/Traps/HomeVillage/SeekingAirMine/wiki.md",
-                "icon": "/wiki/Traps/HomeVillage/SeekingAirMine/Lv3.png"
+                "icon": "/wiki/Traps/HomeVillage/SeekingAirMine/Lv3-4.png"
             },
             {
                 "zh": "骷髅陷阱",
                 "en": "Skeleton Trap",
                 "url": "/wiki/Traps/HomeVillage/SkeletonTrap/wiki.md",
-                "icon": "/wiki/Traps/HomeVillage/SkeletonTrap/Lv3.png"
+                "icon": "/wiki/Traps/HomeVillage/SkeletonTrap/Lv3-4.png"
             },
             {
                 "zh": "飓风陷阱",
                 "en": "Tornado Trap",
                 "url": "/wiki/Traps/HomeVillage/TornadoTrap/wiki.md",
-                "icon": "/wiki/Traps/HomeVillage/TornadoTrap/Lv1.png"
+                "icon": "/wiki/Traps/HomeVillage/TornadoTrap/Lv2-3.png"
             }
         ]
     },
