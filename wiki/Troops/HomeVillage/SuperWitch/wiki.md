@@ -26,6 +26,7 @@
 
 
 **详细数据**
+
 |图示|等级|每秒伤害|每次伤害|![生命值](/wiki/Other/Heart.png "生命值")|训练所需资源![黑油](/wiki/Other/Dark_Elixir.png "黑油")|所需大本营等级|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![Super Witch](/wiki/Troops/HomeVillage/SuperWitch/Lv5.png)|5|360|252|3,200|915|12|

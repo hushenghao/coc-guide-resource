@@ -19,6 +19,7 @@
 
 
 **详细数据**
+
 |等级|初始秒伤|1.5s后秒伤|5.25s后秒伤|![生命值](/wiki/Other/Heart.png "生命值")|训练所需资源![圣水](/wiki/Other/Elixir.png "圣水")|所需大本营等级|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![Inferno Dragon](/wiki/Troops/HomeVillage/InfernoDragon/Lv6-7.png)|6|75|150|1,500|1,900|15,000|12|
