@@ -30,7 +30,7 @@
 
 |图示|攻击偏好|![目标](/wiki/Other/Target.png "目标")|![攻击类型](/wiki/Other/AttackType.png "攻击类型")|移动速度|![攻击速度](/wiki/Other/Attack.png "攻击速度")|攻击距离|每秒伤害|每次伤害|![生命值](/wiki/Other/Heart.png "生命值")|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|![Lava_pup](/wiki/Troops/HomeVillage/LavaHound/Lava_Pup.png)|无|空中和地面|范围伤害|	32|1s|0.4格|35|35|50|
+|![Lava_pup](/wiki/Troops/HomeVillage/LavaHound/Lava_Pup.png)|无|空中和地面|单体伤害|	32|1s|0.4格|35|35|50|
 
 
 **详细升级数据**
