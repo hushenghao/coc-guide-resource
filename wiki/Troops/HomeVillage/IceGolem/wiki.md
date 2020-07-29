@@ -17,7 +17,7 @@
 **基本数据**
 
 |攻击偏好|![目标](/wiki/Other/Target.png "目标")|![攻击类型](/wiki/Other/AttackType.png "攻击类型")|![人口](/wiki/Other/Troops.png "人口")|移动速度|![攻击速度](/wiki/Other/Attack.png "攻击速度")|冰冻半径|所需暗黑训练营等级|所需的大本营等级|攻击距离|![训练时间](/wiki/Other/Clock.png "训练时间")|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |防御建筑|地面目标|单体伤害|15|12|2s|7.5格（进攻时），5.5格（防守时）|8|11|1格|6m • 3m|
 
 
@@ -25,7 +25,7 @@
 **详细升级数据**
 
 |图示|等级|每秒伤害|每次攻击伤害|进攻时冰冻时间防守时冰冻时间|![生命值](/wiki/Other/Heart.png "生命值")|![建造所需资源](/wiki/Other/Dark_Elixir.png "建造所需资源")|![升级所需资源](/wiki/Other/Dark_Elixir.png "升级所需资源")|所需实验室等级|所需大本营等级|![升级所需时间](/wiki/Other/Clock.png "升级所需时间")|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |![Ice Golem](/wiki/Troops/HomeVillage/IceGolem/Lv1-2.png)|1|24|48|4.0s	|2.0s	|2,600|220|N/A  	|N/A|N/A|	N/A|
 |![Ice Golem](/wiki/Troops/HomeVillage/IceGolem/Lv1-2.png)|2|28|56|4.75s	|2.25s	|2,800|240|80,000	|9	|11	|8d|
 |![Ice Golem](/wiki/Troops/HomeVillage/IceGolem/Lv3-4.png)|3|32|64|5.5s	|2.5s	|3,000|260|120,000	|9	|11	|10d|
