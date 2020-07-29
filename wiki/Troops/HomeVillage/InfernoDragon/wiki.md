@@ -10,7 +10,7 @@
 
 **基本属性**
 
-|攻击偏好|![目标](/wiki/Other/Target.png "目标")|![攻击类型](/wiki/Other/AttackType.png "攻击类型")|![人口](/wiki/Other/Troops.png "人口")|移动速度|攻击速度|最低飞龙宝宝等级|要求的最低大本等级|强化费用![强化费用](/wiki/Other/Dark_Elixir.png "强化费用")|	强化有效期|![训练时间](/wiki/Other/Clock.png "训练时间")|
+|攻击偏好|![目标](/wiki/Other/Target.png "目标")|![攻击类型](/wiki/Other/AttackType.png "攻击类型")|![人口](/wiki/Other/Troops.png "人口")|移动速度|攻击速度|最低女巫等级|要求的最低大本等级|强化费用![强化费用](/wiki/Other/Dark_Elixir.png "强化费用")|	强化有效期|![训练时间](/wiki/Other/Clock.png "训练时间")|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |无|地面和空中目标|单体伤害|15|20|0.128s|6|12|60,000|7d|9m • 4m 30s • 3m • 2m 15s|
 
