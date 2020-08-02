@@ -12,9 +12,21 @@
 
 [Wiki](./wiki/Index.md)
 
+
+[**数据有误**](https://github.com/hushenghao/coc-guide-resource/pulls)
+
+[**参与项目维护**](./join.md)
+
+
+### 数据来源
+
+- [部落冲突指导 - 升级数据、游戏下载、攻略教程](https://www.cocservice.top/)
+- [Clash of Clans Guide](https://coc.guide/)
+
+
 ### 项目结构
 
-* json 
+* json
 
     接口请求json资源
 
@@ -28,11 +40,5 @@
 
 
 
-### 数据来源
-
-- [部落冲突指导 - 升级数据、游戏下载、攻略教程](https://www.cocservice.top/)
-- [Clash of Clans Guide](https://coc.guide/)
-- [Clash of Clans 中文 | Fandom](https://clashofclans.fandom.com/zh/wiki/Clash_of_Clans_Chinese_%E7%BB%B4%E5%9F%BA)
 
 
-[数据有误](https://github.com/hushenghao/coc-guide-resource/pulls)
